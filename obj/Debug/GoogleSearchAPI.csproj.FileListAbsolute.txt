@@ -1,0 +1,13 @@
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.csprojAssemblyReference.cache
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.Form1.resources
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.Properties.Resources.resources
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.csproj.GenerateResource.cache
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.csproj.CoreCompileInputs.cache
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\bin\Debug\GoogleSearchAPI.exe.config
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\bin\Debug\GoogleSearchAPI.exe
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\bin\Debug\GoogleSearchAPI.pdb
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.csproj.CopyComplete
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.exe
+C:\Users\ATILIM2\source\repos\GoogleSearchAPI\GoogleSearchAPI\obj\Debug\GoogleSearchAPI.pdb
