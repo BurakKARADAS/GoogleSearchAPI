@@ -23,8 +23,8 @@ namespace GoogleSearchAPI
         private void Form1_Load(object sender, EventArgs e)
         {
             string aranacak = "karadasburak.com";
-            string cx = "012206473211536691174:p3wdsjftbeo";
-            string apikey = "AIzaSyBAPNMCX7Ywi85WMCW1WGLNvIucpbnCe_8";
+            string cx = "xxxx";
+            string apikey = "xxxx";
             string link = "https://www.googleapis.com/customsearch/v1?key=" + apikey + "&cx=" + cx + "&q=" + aranacak + "&start=1";
             var request = WebRequest.Create(link);
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
